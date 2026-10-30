@@ -1,0 +1,37 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/build
+
+# خروجی‌های بیلد
+build/
+bin/
+obj/
+dist/
+publish/
+out/
+.gradle/
+*.apk
+*.aab
+*.msi
+*.msix
+*.exe
+*.dll
+*.pdb
+node_modules/
+
+# فایل‌های محلی
+local.properties
+.env
+.idea/
+*.iml
+.vs/
+.DS_Store
+Thumbs.db
